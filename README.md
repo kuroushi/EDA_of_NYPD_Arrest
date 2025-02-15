@@ -1,2 +1,2 @@
 # EDA_of_NYPD_Arrest
-This project involves analyzing NYPD arrest data to uncover patterns, trends, and insights related to arrests in New York City. 
+This project involves analyzing NYPD arrest data to uncover patterns, trends, and insights related to arrests in New York City.Using Python, Pandas, Matplotlib, and Seaborn, the analysis explores key factors such as arrest counts by borough, offense types, seasonal variations, and demographic distributions. The project includes data cleaning, visualization, and statistical summaries to identify potential biases, crime hotspots, and policy implications. The insights derived can support law enforcement strategies, public policy decisions, and community awareness efforts. 
